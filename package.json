@@ -1,0 +1,22 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rjais08/RealtimeWeatherWeb-app-.git"
+  },
+  "author": "\"Rahul\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rjais08/RealtimeWeatherWeb-app-/issues"
+  },
+  "homepage": "https://github.com/Rjais08/RealtimeWeatherWeb-app-#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
